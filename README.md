@@ -1,1 +1,1 @@
-# School-aplay
+# School
